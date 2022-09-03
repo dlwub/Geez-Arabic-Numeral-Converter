@@ -2,15 +2,11 @@
 This proram is a desktop app for converting Geez numbers in the range 1 to 10,000 to Arabic numbers and vice versa.
   
 ## How to use the app:
-To use the app, download this repository and put the CalendarConverter.jar excutable file in your computer. It opens when you double click it.
-To convert a date insert the date in the first box in the order date, month and year (8 digits) and choose from which
-calendar (first dropdown box) to which calendar (second dropdown box) you want to change and press the 'Change' button.
-
-![alt text](CalendarConverter.png)<br>
-<em>Screen shot of Calendar converter - European calendar to Hijri</em>
-
-![alt text](CalendarConverter(2).png)<br>
-<em>Screen shot of Calendar converter - Ethiopian calendar to European</em>
+To use the app, download this repository and put the Geez-ArabicNumeralConverter.jar excutable file in your computer. It opens when you double click it.
+To convert an Arabic numeral to Geez numeral, insert the number in the first input field. The equivalent Geez numeral appears at the right of the input field automatically. 
+To convert a Geez numeral to an Arabic numeral, insert the number in the second input field by clicking the buttons below. The equivalent Arabic numeral appears at the right of the second input field automatically. <br>
+![alt text](Geez Arabic numeral converter.png)<br>
+<em>Screen shot of Geez Arabic Numeral Converter</em>
 
 ## Technologies used
 
